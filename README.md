@@ -1,5 +1,7 @@
 Calm Waters: Navigating Conflict VR
+
 Project Overview
+
 Calm Waters: Navigating Conflict VR is an immersive virtual reality experience designed to teach conflict resolution skills through interactive scenarios. Set in a realistic environment, the player is placed in the middle of a tense conversation between two characters, Remy and Kate, who are struggling to work together on a group project. The player's goal is to de-escalate the situation by making thoughtful dialogue choices at critical points in the conversation.
 
 Features
@@ -16,6 +18,7 @@ Getting Started
 Prerequisites
 
 Hardware: This project is developed for the Oculus Quest 3. Make sure you have the necessary VR headset and controllers.
+
 Software: This Project was developed using Unity 2023.3.41f1 lts.
 
 Quest 3 Build:
