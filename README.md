@@ -26,6 +26,6 @@ Hardware: This project is developed for the Oculus Quest 3. Make sure you have t
 Software: This Project was developed using Unity 2023.3.41f1 lts.
 
 ### Gameplay Video:
-A gameplay video showcasing one of the possible scenarios is available in the Gameplay folder. This video is a great way to see the project in action and understand the dynamics of the scenario.
+A gameplay video showcasing one of the possible scenarios is available here - https://www.youtube.com/watch?v=-g6bDzCR0Pk
 
 
